@@ -6,8 +6,6 @@ AI-assisted sound design for film: spotting, sound recommendation, sound generat
 
 https://github.com/user-attachments/assets/3a90ff92-48a6-47b8-af89-0fbce9474ac2
 
-*Four and a half minutes with the four modes in Pro Tools, on two short clips: spotting, sound generation, sound recommendation and Hybrid. Watch with sound.*
-
 | Repository | |
 |------------|-|
 | [ai-protools-aax](https://github.com/ai-sound-design/ai-protools-aax) | The Pro Tools plugin |

@@ -48,4 +48,9 @@ The four modes in Pro Tools, recorded with the backend from ai-services; the vid
 
 ## Status
 
-Research prototype, anonymized for peer review; not a production tool. The state submitted with the paper is preserved in the plugin repository (branch `paper-submission`, tag `v1-paper-submission`); development continues on `main`. Code is MIT licensed; the models and the BBC archive keep their own terms, listed in each repository.
+Research prototype; not a production tool. Code is MIT licensed; the models and the BBC archive keep their own terms, listed in each repository.
+
+## Authors
+
+- [Ludwig Degenhardt](https://github.com/uzerterter): the original plugin
+- [Christoph J. Weber](https://github.com/chris-j-weber): spotting, the hybrid mode, the backend and the web UI

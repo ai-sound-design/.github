@@ -2,13 +2,11 @@
 
 AI-assisted sound design for film: spotting, sound recommendation, sound generation and a hybrid of the three, as a Pro Tools plugin or in the browser.
 
+**[Download the installer](https://github.com/ai-sound-design/installer/releases/latest)**: one app that installs and updates everything (backend, web UI, Pro Tools plugin and sound database), for Macs with Apple Silicon and for Windows PCs with an NVIDIA GPU; on Windows in Docker Desktop or directly on the PC.
 
 https://github.com/user-attachments/assets/3a90ff92-48a6-47b8-af89-0fbce9474ac2
 
-
 *Four and a half minutes with the four modes in Pro Tools, on two short clips: spotting, sound generation, sound recommendation and Hybrid. Watch with sound.*
-
-**[Download the installer](https://github.com/ai-sound-design/installer/releases/latest)**: one app that installs and updates everything (backend, web UI, Pro Tools plugin and sound database), for Macs with Apple Silicon and for Windows PCs with an NVIDIA GPU; on Windows in Docker Desktop or directly on the PC.
 
 | Repository | |
 |------------|-|
